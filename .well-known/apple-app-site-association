@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "ZF9JC8PAA3.com.apporeal.mealPlanner"
+        ],
+        "paths": [
+          "/share/*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "ZF9JC8PAA3.com.apporeal.mealPlanner"
+    ]
+  }
+}
