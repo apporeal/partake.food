@@ -7,13 +7,3 @@
     ["9F:92:1D:B4:36:DE:81:27:0D:C0:35:07:31:56:FC:D2:BD:F9:11:BC:B0:D0:41:51:EC:DD:61:E4:C2:56:9C:53"]
   }
 }]
-
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.apporeal.meal_planner",
-    "sha256_cert_fingerprints":
-    ["57:94:53:F8:48:0D:9D:E7:B2:6A:73:9E:D7:73:08:0E:26:7D:84:D1:CA:E5:95:74:CB:0A:31:B7:39:C0:AD:A5"]
-  }
-}]
